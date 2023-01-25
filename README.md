@@ -1,7 +1,7 @@
 ## TREE-DATABASE-STRUCTURE
 <br>
 <p align='center'>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdjango%2Fcomments%2Fyw1n38%2Fhow_to_add_categories_to_blogs%2F&psig=AOvVaw0KMA5ZIW6A_H3IeGak12Dc&ust=1674749321073000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiTp8aN4_wCFQAAAAAdAAAAABAE" width='70%' >
+<img src="https://djangopy.org/img/how-to-implement-categories-in-django/cover.jpg" width='70%' >
 </p>
 <br>
 
