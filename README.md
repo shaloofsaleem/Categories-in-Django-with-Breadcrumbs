@@ -7,11 +7,9 @@
 
 Guide to create a hierarchical categories in a tree structure easily with Django.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- In sit amet cursus ex.
-- Maecenas id lacus ut diam placerat lobortis ac quis nisl.
--  Nam tristique vulputate ante at malesuada.
-- imperdiet elit posuere ut.
+
+# django-mptt
+-  https://django-mptt.readthedocs.io/en/latest/install.html
 
 <br>
 
