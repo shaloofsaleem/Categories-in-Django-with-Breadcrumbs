@@ -65,7 +65,7 @@ python manage.py migrate
 ```
 
 
-##4. admin
+##4. Admin
 
 ```
 class CategoryAdmin(DraggableMPTTAdmin):
